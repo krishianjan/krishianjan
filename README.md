@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 💡 About Me:
 🔹 Master’s Student in Data Science @ SUNY Binghamton 🎓
 🔹 Passionate about Machine Learning, AI, LLMs & Reinforcement Learning 🤖
-🔹 Former SDE at Desire Innovations |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure, Docker) 💻 | Data Analyst at Byju's 🔍 
-🔹 Exploring Roots of Computer Science  , Heart of AI , LLM's , ML Algo & Scalable AI Architectures  ☁️
+🔹 Former SDE at Trishna Innovations |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure, Docker) 💻 | Data Analyst at Byju's 🔍 
+🔹 Exploring  The Roots of Computer Science , Heart of AI , LLM's , ML Algo & Scalable AI Architectures  ☁️
 
 💻 Tech Stack & Skills:
 🚀 Languages: Python, Java, JavaScript, SQL
@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 
 🌍 Let's Connect & Collaborate!
 🔗 LinkedIn www.linkedin.com/in/krishianjanlanka
-🐦 Twitter/X 
 📬 Email lankakrishianjan@gmail.com
 
 💡 Always open to discussions on AI, ML, and cutting-edge tech! Let’s build something cool together! 🚀✨
