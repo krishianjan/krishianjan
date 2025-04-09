@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 💡 About Me:
 🔹 Master’s Student in Data Science @ SUNY Binghamton 🎓
 🔹 Passionate about Machine Learning, AI, LLMs & Reinforcement Learning 🤖
-🔹 Former SDE at Trishna Innovations |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure, Docker) 💻 | Data Analyst at Byju's 🔍 
+🔹 Former SDE  |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure, Docker) 💻 | Data Analyst at Byju's 🔍 
 🔹 Currently Exploring  The Roots of Computer Science , Heart of AI , AND  LLM's , ML Algo & Scalable AI Architectures  ☁️
 
 💻 Tech Stack & Skills:
