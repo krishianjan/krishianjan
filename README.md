@@ -13,6 +13,8 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 📊 ML & AI: TensorFlow, PyTorch, Scikit-Learn, Hugging Face
 🧠 LLMs & NLP: GPT, T5, BERT, Transformer Models
 📡 Data & Cloud: Power BI, BigQuery, AWS, Azure
+
+
 ⚡ Software Development: React, Node.js, Flask, FastAPI
 
 🚀 My GitHub Playground:
