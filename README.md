@@ -4,9 +4,10 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 
 💡 About Me:
 🔹 Master’s Student in Data Science @ SUNY Binghamton 🎓
-🔹 Passionate about Machine Learning, AI, LLMs & Reinforcement Learning 🤖
-🔹 Former SDE  |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure, Docker) 💻 | Data Analyst at Byju's 🔍 
+🔹 Passionate about Machine Learning, AI, LLMs & Reinforcement Learning & RAG  🤖
+🔹 Former SDE  |📊 Data Engineer at Microsoft (LTI MINDTREE) (Power BI , Azure Data Factory) 💻 |Ex- Data Analyst at Byju's 🔍 
 🔹 Currently Exploring  The Roots of Computer Science , Heart of AI , AND  LLM's , ML Algo & Scalable AI Architectures  ☁️
+🔹 Certified core Java & Spring Boot developer
 
 💻 Tech Stack & Skills:
 🚀 Languages: Python, Java, JavaScript, SQL
