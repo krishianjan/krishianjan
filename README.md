@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 📡 Data & Cloud: Power BI, BigQuery, AWS, Azure
 
 
-⚡ Software Development: React, Node.js, Flask, FastAPI
+⚡ Software Development: React, Node.js, FastAPI, Django, Flask
 
 🚀 My GitHub Playground:
 📌 🔬 LLM Experiments: Fine-tuning & optimizing language models
