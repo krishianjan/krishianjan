@@ -1,6 +1,6 @@
 🚀 Tech Explorer | AI Enthusiast | ML & LLMs Bud 🤖
 Hey there! I'm Krishianjan  👋
-Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate about building intelligent systems, exploring Large Language Models (LLMs), and diving deep into Reinforcement Learning. Always on the lookout for cutting-edge tech and innovative solutions.
+Welcome to my GitHub! I'm a Python Developer & AI/ML Enthusiast passionate about building intelligent systems, exploring Large Language Models (LLMs), and diving deep into Reinforcement Learning. Always on the lookout for cutting-edge tech and innovative solutions.
 
 💡 About Me:
 🔹 Master’s Student in Data Science @ SUNY Binghamton 🎓
@@ -19,8 +19,8 @@ Welcome to my GitHub! I'm a  Python Developer & AI/ML Enthusiast passionate abou
 ⚡ Software Development: React, Node.js, FastAPI, Django, Flask
 
 🚀 My GitHub Playground:
-📌 🔬 LLM Experiments: Fine-tuning & optimizing language models
-📌 🧠 ML/AI Projects: Reinforcement learning & predictive analytics
+📌 🔬 LLM Experiments: Fine-tuning & Inference 
+📌 🧠 ML/AI Projects: Reinforcement learning & predictive analytics & MCP 
 📌 ⚙️ Open-Source Contributions: Enhancing AI & tech communities
 
 🌍 Let's Connect & Collaborate!
